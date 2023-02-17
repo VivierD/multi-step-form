@@ -35,7 +35,7 @@ export default function FoodStyle(props) {
     className='checkbox-form'
     onSubmit={preventFunct}>
         <p>Quelles sont tes cuisines préférées ?</p>
-        <span>Coix multiples !</span>
+        <span>Choix multiples !</span>
 
         <label htmlFor='italian'>
             Italienne
